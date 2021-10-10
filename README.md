@@ -1,2 +1,1 @@
-# .github
-Delivering Software Gh profile
+# Delivering Software 
